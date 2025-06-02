@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+EMPLOYMENT HISTORY                                                           
+Research Scientist and Research Associate Roles
+July 2023 – Present  Research Scientist
+Focus: Tumor immunology and immune checkpoint therapy in TNBC
+MD Anderson Cancer Center (Houston, TX, USA)
+July 2022 – July 2023  Research Associate
+Focus: Innate and adaptive immunity in autoimmune and infectious diseases
+Houston Methodist Hospital & Weill Cornell Medicine (Houston, TX, USA)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Postdoctoral Fellow
+April 2019 – July 2022
+Focus: Innate immunity in autoimmune and inflammatory diseases
+Hospital for Special Surgery & Weill Cornell Medicine (New York, NY, USA)
+Mentor: Dr. Franck Barrat.
+June 2017 – April 2019
+Focus: Innate and adaptive immunity in autoimmune and infectious diseases
+Houston Methodist Hospital & Weill Cornell Medicine (Houston, TX, USA)
+Mentor: Dr. Zhiqiang Zhang
+December 2015 – June 2017
+Focus: The role of brown fat secreted peptides on appetite regulation
+University of Massachusetts Medical School (Worcester, MA, USA)
+Mentor: Dr. Yong-Xu Wang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+EDUCATION                                                            
+Ph.D. in Molecular Medicine
+Sun Yat-Sen University Cancer Center (SYSUCC), China
+September 2010 – July 2015
+Mentor: Musheng Zeng
+B.S. in Biotechnology
+Sichuan Agricultural University (SCAU), China
+September 2006 – July 2010
