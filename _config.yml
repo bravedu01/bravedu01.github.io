@@ -39,6 +39,17 @@ exclude:
   - vendor
 
 markdown: kramdown
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+
 highlighter: rouge
 plugins:
   - jekyll-feed
