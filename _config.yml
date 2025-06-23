@@ -50,6 +50,9 @@ navigation:
   - title: "Teaching"
     url: /teaching/
 
+theme: minimal
+
+
 highlighter: rouge
 plugins:
   - jekyll-feed
