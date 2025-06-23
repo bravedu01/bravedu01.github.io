@@ -50,7 +50,7 @@ navigation:
   - title: "Teaching"
     url: /teaching/
 
-theme: minimal
+remote_theme: academicpages/academicpages.github.io
 
 
 highlighter: rouge
