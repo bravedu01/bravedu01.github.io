@@ -27,7 +27,7 @@ We are a research group exploring the complex interplay between the immune syste
 
 ### 🔗 Quick Links
 
-- 👥 [Team](/teams/)
+- 👥 [Team](/team/)
 - 📄 [CV](/cv/)
 - 📚 [Publications](/publication/)
 - 💰 [Funding](/funding/)
