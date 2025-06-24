@@ -1,11 +1,20 @@
 ---
-layout: sidebar-page
+layout: home
 title: "CV"
 permalink: /cv/
 author_profile: true
 nav: true
 ---
 
+## 🎓 Education
+
+**Ph.D. in Molecular Medicine**  
+**Sun Yat-sen University Cancer Center (SYSUCC)** — *Guangzhou, China*  
+**September 2010 – July 2015**  
+- Mentor: Dr. Musheng Zeng
+
+---
+  
 ## 🧪 Employment History
 
 ### **Research Scientist**  
@@ -38,12 +47,6 @@ nav: true
 
 ---
 
-## 🎓 Education
-
-**Ph.D. in Molecular Medicine**  
-**Sun Yat-sen University Cancer Center (SYSUCC)** — *Guangzhou, China*  
-**September 2010 – July 2015**  
-- Mentor: Dr. Musheng Zeng
 
 **B.S. in Biotechnology**  
 **Sichuan Agricultural University (SCAU)** — *Sichuan, China*  
