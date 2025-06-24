@@ -1,5 +1,5 @@
 ---
-layout: sidebar
+layout: sidebar-page
 title: "CV"
 permalink: /cv/
 author_profile: true
