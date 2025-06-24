@@ -10,10 +10,8 @@ nav: true
 
 ## Principal Investigator
 
-**Dr. Yong Du**  
+**Dr. Yong Du Assistant Professor**
 **Ph.D. Sun Yat-sen University (2015)**
-
-**Assistant Professor**
 
 **Research Interests:**  
 pDC biology, type I interferon signaling, tumor immunology, CRISPR screening.
