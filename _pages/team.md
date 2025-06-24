@@ -11,7 +11,7 @@ author_profile: true
 
 **Dr. Yong Du**  
 Assistant Professor
-**Ph.D., Sun Yat-sen University (2015)  
+**Ph.D., Sun Yat-sen University (2015)**
 
 **Research Interests:**  
 pDC biology, type I interferon signaling, tumor immunology, CRISPR screening.
