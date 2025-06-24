@@ -37,6 +37,15 @@ include:
 markdown: kramdown
 highlighter: rouge
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      author_profile: true
+      layout: single
+
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
