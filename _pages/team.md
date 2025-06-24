@@ -11,6 +11,7 @@ author_profile: true
 
 **Dr. Yong Du**  
 **Ph.D. Sun Yat-sen University (2015)**
+
 **Assistant Professor**
 
 **Research Interests:**  
