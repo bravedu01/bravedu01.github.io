@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 title: "Welcome to Du Lab"
 permalink: /
 ---
