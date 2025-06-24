@@ -10,7 +10,7 @@ nav: true
 
 ## Principal Investigator
 
-**Dr. Yong Du**   Assistant Professor
+**Dr. Yong Du**    **Assistant Professor**
 
 **Ph.D. Sun Yat-sen University (2015)**
 
