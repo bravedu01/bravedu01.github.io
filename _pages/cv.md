@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -12,7 +12,10 @@ nav: true
 **Sun Yat-sen University Cancer Center (SYSUCC)** — *Guangzhou, China*  
 **September 2010 – July 2015**  
 - Mentor: Dr. Musheng Zeng
-
+  
+**B.S. in Biotechnology**  
+**Sichuan Agricultural University (SCAU)** — *Sichuan, China*  
+**September 2006 – July 2010**
 ---
   
 ## 🧪 Employment History
@@ -46,8 +49,3 @@ nav: true
 - Mentor: Dr. Yong-Xu Wang
 
 ---
-
-
-**B.S. in Biotechnology**  
-**Sichuan Agricultural University (SCAU)** — *Sichuan, China*  
-**September 2006 – July 2010**
