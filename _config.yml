@@ -14,8 +14,8 @@ author:
   orcid: "https://orcid.org/0000-0003-2986-6249"
 
 navigation:
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
   - title: "Team"
     url: /teams/
   - title: "CV"
