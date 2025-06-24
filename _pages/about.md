@@ -1,3 +1,10 @@
+---
+layout: single
+title: "About" 
+permalink: /about/
+author_profile: true
+---
+
 Welcome to the Du Lab!
 
 We are a research group exploring the complex interplay between the immune system and disease. Our interests span both basic mechanisms and translational applications in immunology and genomics.
