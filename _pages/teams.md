@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: "Team"
 permalink: /team/
 author_profile: true
