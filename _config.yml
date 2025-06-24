@@ -1,5 +1,5 @@
-title: "Du-Lab"
-description: "personal description"
+title: "Du Lab"
+description: "Tumor immunology and autoimmunity"
 url: "https://bravedu01.github.io"
 baseurl: ""
 repository: "bravedu01/bravedu01.github.io"
@@ -8,43 +8,33 @@ locale: "en-US"
 author:
   name: "Yong Du"
   email: "duyongfnp@gmail.com"
-  location: "Earth"
   github: "bravedu01"
-  googlescholar: "https://scholar.google.com/citations?hl=en&user=EtUtLTkAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar: "https://scholar.google.com/citations?user=EtUtLTkAAAAJ&hl=en"
   pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=yong+du"
   orcid: "https://orcid.org/0000-0003-2986-6249"
 
-include:
-  - _pages
-  - files
-
-exclude:
-  - Dockerfile
-  - Gemfile
-  - node_modules
-  - README.md
-  - LICENSE
-  - "*.sublime-*"
-  - vendor
-
-markdown: kramdown
-
 navigation:
-  - title: "Home"
+  - title: "About"
     url: /about/
-  - title: "CV"
-    url: /cv/
   - title: "Team"
     url: /teams/
+  - title: "CV"
+    url: /cv/
   - title: "Publications"
-    url: /publication/
+    url: /Publication/
   - title: "Funding"
     url: /funding/
-  - title: "Contact Us"
+  - title: "Contact"
     url: /contact/
 
+# 指定自定义页面文件夹
+include:
+  - _pages
+
+# 使用的 Jekyll 主题
 remote_theme: academicpages/academicpages.github.io
 
+markdown: kramdown
 highlighter: rouge
 
 plugins:
