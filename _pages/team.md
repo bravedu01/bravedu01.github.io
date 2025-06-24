@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: cv-layout
 title: "Team"
 permalink: /team/
 author_profile: true
