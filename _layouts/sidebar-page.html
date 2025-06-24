@@ -1,0 +1,17 @@
+{% raw %}
+---
+layout: default
+---
+
+<div class="page">
+  <aside class="sidebar__author">
+    {% if page.author_profile or layout.author_profile %}
+      {% include author-profile.html %}
+    {% endif %}
+  </aside>
+
+  <div class="page__content" style="margin-left: 260px;">
+    {{ content }}
+  </div>
+</div>
+{% endraw %}
