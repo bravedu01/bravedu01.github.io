@@ -31,6 +31,8 @@ author_profile: true
   *Apex1 safeguards genomic stability to ensure a cytopathic T cell fate in autoimmune disease models.*  
   _J Clin Invest_, **135**. 10.1172/JCI183671
         
+        
+        
         .
 
 - Wang JY#, Lu WT#, Zhang J#, Du Y#, Fang ML, Xing JJ (2024).  
