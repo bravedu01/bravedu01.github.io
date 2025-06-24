@@ -17,10 +17,10 @@ navigation:
   - title: "Home"
     url: /
   - title: "Team"
-    url: /teams/
+    url: /team/
   - title: "CV"
     url: /cv/
-  - title: "Publications"
+  - title: "Publication"
     url: /publication/
   - title: "Funding"
     url: /funding/
