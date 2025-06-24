@@ -34,8 +34,7 @@ navigation:
 include:
   - _pages
 
-# 使用的 Jekyll 主题
-remote_theme: academicpages/academicpages.github.io
+theme: "_theme"
 
 markdown: kramdown
 highlighter: rouge
