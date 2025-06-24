@@ -14,6 +14,13 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% if page.author_profile or layout.author_profile %}
+  <div style="float: none; margin-bottom: 1.5em;">
+    {% include author-profile.html %}
+  </div>
+{% endif %}
+
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
