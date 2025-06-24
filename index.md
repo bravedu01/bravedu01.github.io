@@ -27,12 +27,9 @@ We are a research group exploring the complex interplay between the immune syste
 
 ### 🔗 Quick Links
 
-- 👥 [Team](/team/)
-- 📄 [CV](/cv/)
-- 📚 [Publications](/publication/)
-- 💰 [Funding](/funding/)
-- 📬 [Contact](/contact/)
-
+  googlescholar: "https://scholar.google.com/citations?user=EtUtLTkAAAAJ&hl=en"
+  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=yong+du"
+  orcid: "https://orcid.org/0000-0003-2986-6249"
 ---
 
 📧 For inquiries: [duyongfnp@gmail.com](mailto:duyongfnp@gmail.com)
