@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: splash
 title: "Welcome to Du Lab"
+permalink: /
 ---
 
 Welcome to the **Du Lab**!
