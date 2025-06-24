@@ -43,12 +43,14 @@ markdown: kramdown
 navigation:
   - title: "Home"
     url: /
-  - title: "CV"
-    url: /cv/
+  - title: "Team"
+    url: /team/
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=EtUtLTkAAAAJ&view_op=list_works&sortby=pubdate
-  - title: "Teaching"
-    url: /teaching/
+    url: https://scholar.google.com/citations?user=EtUtLTkAAAAJ&hl=en
+  - title: "Funding"
+    url: /funding/
+  - title: "Contact Us"
+    url: /contact/
 
 remote_theme: academicpages/academicpages.github.io
 
