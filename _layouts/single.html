@@ -14,12 +14,16 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% if page.author_profile or layout.author_profile %}
-  <div style="float: none; margin-bottom: 1.5em;">
+<div class="page__container" style="display: flex; flex-wrap: wrap;">
+  {% if page.author_profile or layout.author_profile %}
+  <aside style="flex: 0 0 250px; margin-right: 2rem;">
     {% include author-profile.html %}
-  </div>
-{% endif %}
-
+  </aside>
+  {% endif %}
+  <main style="flex: 1;">
+    {{ content }}
+  </main>
+</div>
 
 <div id="main" role="main">
   {% include sidebar.html %}
