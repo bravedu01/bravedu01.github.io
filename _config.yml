@@ -34,8 +34,6 @@ navigation:
 include:
   - _pages
 
-theme: "_theme"
-
 markdown: kramdown
 highlighter: rouge
 
