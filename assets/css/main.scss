@@ -1,46 +1,40 @@
-@import "vendor/breakpoint/breakpoint";
+---
+---
 
-@import "themes";
-@import "theme/default";
-@import "theme/dark";
+/*
+ * Jekyll requires the first two lines: YAML front matter
+ * This file controls all imported SCSS partials from _sass/
+ */
 
-@import "include/mixins";
-// @import "vendor/susy/susy";
+@import "vendor/breakpoint/breakpoint";  // media queries
 
-@import "layout/reset";
-@import "layout/base";
+@import "themes";                        // general theme wrapper
+@import "theme/default";                 // core color/font/theme config
+@import "theme/dark";                    // optional dark theme
 
-@import "include/utilities";
+@import "include/mixins";               // custom functions/mixins
+// @import "vendor/susy/susy";          // optional grid system (can be commented out)
+
+@import "layout/reset";                 // resets and base HTML styles
+@import "layout/base";                  // base typography, links, spacing
+
+@import "include/utilities";            // utility classes like floats, text-align
 @import "layout/tables";
 @import "layout/buttons";
 @import "layout/notices";
-@import "layout/masthead";
-@import "layout/navigation";
+
+@import "layout/masthead";              // top logo/title
+@import "layout/navigation";            // navbar - controls horizontal layout!
 @import "layout/footer";
-@import "syntax";
+@import "syntax";                       // code highlight
 
 @import "layout/forms";
-
 @import "layout/page";
 @import "layout/archive";
 @import "layout/sidebar";
 
+// Optional components (comment out if build error, or remove missing folders)
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
-
-nav ul {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.2rem;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-  margin: 1rem 0;
-}
-
-nav ul li {
-  display: inline;
-}
-
