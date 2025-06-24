@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: cv-layout
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -16,6 +16,7 @@ nav: true
 **B.S. in Biotechnology**  
 **Sichuan Agricultural University (SCAU)** — *Sichuan, China*  
 **September 2006 – July 2010**
+
 ---
   
 ## 🧪 Employment History
