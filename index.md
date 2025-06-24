@@ -2,6 +2,7 @@
 layout: default
 title: "Welcome to Du Lab"
 permalink: /
+author_profile: true
 ---
 
 Welcome to the **Du Lab**!
