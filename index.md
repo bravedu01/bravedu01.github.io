@@ -1,7 +1,8 @@
 ---
-layout: splash
+layout: single
 title: "Welcome to Du Lab"
 permalink: /
+author_profile: false
 ---
 
 Welcome to the **Du Lab**!
