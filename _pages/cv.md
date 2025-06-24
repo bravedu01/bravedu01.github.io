@@ -25,12 +25,6 @@ nav: true
 **MD Anderson Cancer Center** — *Houston, TX, USA*  
 **July 2023 – Present**  
 - Focus: Tumor immunology and immune checkpoint therapy in TNBC
-
-### **Research Associate**  
-**Houston Methodist Hospital & Weill Cornell Medicine** — *Houston, TX, USA*  
-**July 2022 – July 2023**  
-- Focus: Innate and adaptive immunity in autoimmune and infectious diseases
-
 ---
 
 ### **Postdoctoral Fellow**
@@ -41,7 +35,7 @@ nav: true
 - Mentor: Dr. Franck Barrat
 
 **Houston Methodist Hospital & Weill Cornell Medicine** — *Houston, TX, USA*  
-**June 2017 – April 2019**  
+**June 2017 – April 2019**  & **July 2022 – July 2023**  
 - Focus: Innate and adaptive immunity in autoimmune and infectious diseases  
 
 **University of Massachusetts Medical School** — *Worcester, MA, USA*  
