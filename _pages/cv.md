@@ -11,6 +11,7 @@ nav: true
 **Ph.D. in Molecular Medicine**  
 **Sun Yat-sen University Cancer Center (SYSUCC)** — *Guangzhou, China*  
 **September 2010 – July 2015**  
+- Focus: Mechanism underlying EBV infection of epithelial cells  
 - Mentor: Dr. Musheng Zeng
   
 **B.S. in Biotechnology**  
@@ -25,6 +26,7 @@ nav: true
 **MD Anderson Cancer Center** — *Houston, TX, USA*  
 **July 2023 – Present**  
 - Focus: Tumor immunology and immune checkpoint therapy in TNBC
+
 ---
 
 ### **Postdoctoral Fellow**
