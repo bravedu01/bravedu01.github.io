@@ -11,7 +11,6 @@ author_profile: true
 
 **Dr. Yong Du**  
 Assistant Professor
-Postdoctoral Fellow, Weill Cornell Medicine (2017–2023)  
 Ph.D., Sun Yat-sen University (2015)  
 📧 [duyongfnp@gmail.com](mailto:duyongfnp@gmail.com)
 
