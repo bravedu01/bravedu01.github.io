@@ -14,17 +14,6 @@ author:
   pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=yong+du"
   orcid: "https://orcid.org/0000-0003-2986-6249"
 
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-
 include:
   - _pages
   - files
@@ -42,11 +31,13 @@ markdown: kramdown
 
 navigation:
   - title: "Home"
-    url: /
+    url: /about/
+  - title: "CV"
+    url: /cv/
   - title: "Team"
-    url: /team/
+    url: /teams/
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=EtUtLTkAAAAJ&hl=en
+    url: /publication/
   - title: "Funding"
     url: /funding/
   - title: "Contact Us"
@@ -54,8 +45,8 @@ navigation:
 
 remote_theme: academicpages/academicpages.github.io
 
-
 highlighter: rouge
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
