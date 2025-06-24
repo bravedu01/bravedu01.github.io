@@ -1,1 +1,30 @@
-Couldn't find the requested file /stylesheets/breakpoint/_breakpoint.scss in at-import/breakpoint.
+// Minimal replacement for Breakpoint
+@mixin breakpoint-set($points...) {
+  // Do nothing, placeholder to suppress errors
+}
+
+@mixin breakpoint($point) {
+  @if $point == mobile {
+    @media (max-width: 480px) { @content; }
+  } @else if $point == tablet {
+    @media (max-width: 768px) { @content; }
+  } @else if $point == desktop {
+    @media (min-width: 769px) { @content; }
+  } @else {
+    // fallback
+    @media (min-width: 1024px) { @content; }
+  }
+}
+
+// Simple Breakpoint Mixin
+@mixin breakpoint($point) {
+  @if $point == mobile {
+    @media (max-width: 480px) { @content; }
+  } @else if $point == tablet {
+    @media (max-width: 768px) { @content; }
+  } @else if $point == desktop {
+    @media (min-width: 769px) { @content; }
+  }
+}
+
+
