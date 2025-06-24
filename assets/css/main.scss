@@ -2,39 +2,60 @@
 ---
 
 /*
- * Jekyll requires the first two lines: YAML front matter
- * This file controls all imported SCSS partials from _sass/
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-@import "vendor/breakpoint/breakpoint";  // media queries
+@import
+    "vendor/breakpoint/breakpoint",
 
-@import "themes";                        // general theme wrapper
-@import "theme/default";                 // core color/font/theme config
-@import "theme/dark";                    // optional dark theme
+    "themes",
+    "theme/default",
+    "theme/dark",
 
-@import "include/mixins";               // custom functions/mixins
-// @import "vendor/susy/susy";          // optional grid system (can be commented out)
+    "include/mixins",
+    // "vendor/susy/susy",
 
-@import "layout/reset";                 // resets and base HTML styles
-@import "layout/base";                  // base typography, links, spacing
+    "layout/reset",
+    "layout/base",
 
-@import "include/utilities";            // utility classes like floats, text-align
-@import "layout/tables";
-@import "layout/buttons";
-@import "layout/notices";
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
 
-@import "layout/masthead";              // top logo/title
-@import "layout/navigation";            // navbar - controls horizontal layout!
-@import "layout/footer";
-@import "syntax";                       // code highlight
+    "layout/forms",
 
-@import "layout/forms";
-@import "layout/page";
-@import "layout/archive";
-@import "layout/sidebar";
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
 
-// Optional components (comment out if build error, or remove missing folders)
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
+    // "vendor/magnific-popup/magnific-popup"
+;
+
+/* -------------------
+   Custom override: horizontal navigation
+   ------------------- */
+
+nav.greedy-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+}
+
+nav.greedy-nav ul li {
+  display: inline;
+}
