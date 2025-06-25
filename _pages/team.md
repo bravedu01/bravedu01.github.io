@@ -10,7 +10,7 @@ nav: true
 
 ### Principal Investigator
 
-<p align="center">
+<p align="left">
   <img src="/images/yongdu.jpg" alt="Yong Du" width="180" />
 </p>
 
