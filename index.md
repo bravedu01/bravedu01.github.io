@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: cv-layout
 title: "Welcome to Du Lab"
 permalink: /
 author_profile: true
