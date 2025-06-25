@@ -17,7 +17,6 @@ nav: true
 **Research Interests:**  
 pDC biology, type I interferon signaling, tumor immunology, CRISPR screening.
 
-📧 [duyongfnp@gmail.com](mailto:duyongfnp@gmail.com)
 ---
 
 ## Join Us
