@@ -23,7 +23,7 @@ nav: true
 ## 🧪 Employment History
 
 ### **Assistant Professor (Hundred Talents Program), PI**
-**Shenzhen University** -Shenzhen, GD, CHINA <br>
+**Shenzhen University** -*Shenzhen, GD, CHINA* <br>
 **February 2026 – Present**
 
 ### **Research Scientist**  
