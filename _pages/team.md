@@ -15,7 +15,7 @@ nav: true
 </p>
 
 **Dr. Yong Du**  
-Assistant Professor  
+** Assistant Professor (Hundred Talents Program) **
 Ph.D. Sun Yat-sen University (2015)  
 
 **Research Interests:**  
