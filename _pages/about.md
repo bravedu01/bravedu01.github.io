@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-Welcome to the Du Lab in Shenzhen University Medical School!
+Welcome to the Du Lab in Shenzhen University Basic Medical School!
 
 We are a research group exploring the complex interplay between the immune system and disease. Our interests span both basic mechanisms and translational applications in immunology and genomics.
 
