@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 nav: true
 ---
-## Contact us at duyongfnp@163.com or duyongfnp@szu.edu.cn##
+## Contact us at duyongfnp@163.com or duyongfnp@szu.edu.cn
