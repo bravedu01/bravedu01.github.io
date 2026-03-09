@@ -15,7 +15,7 @@ nav: true
 </p>
 
 **Dr. Yong Du**  
-Assistant Professor (Hundred Talents Program) <br>
+Assistant Professor (Hundred Talents Program of Shenzhen University) <br>
 Ph.D. Sun Yat-sen University (2015)  
 
 **Research Interests:**  
