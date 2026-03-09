@@ -22,6 +22,9 @@ nav: true
   
 ## 🧪 Employment History
 
+### ** Assistant Professor (Hundred Talents Program) PI**
+** ShenZhen University** -*Shenzhen, GD, CHINA*
+
 ### **Research Scientist**  
 **MD Anderson Cancer Center** — *Houston, TX, USA*  
 **July 2023 – Present**  
