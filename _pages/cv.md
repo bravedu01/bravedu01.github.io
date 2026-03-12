@@ -42,7 +42,8 @@ nav: true
 
 **Houston Methodist Hospital & Weill Cornell Medicine** — *Houston, TX, USA*  
 **June 2017 – April 2019**  & **July 2022 – July 2023**  
-- Focus: Innate and adaptive immunity in autoimmune and infectious diseases  
+- Focus: Innate and adaptive immunity in autoimmune and infectious diseases
+- Mentor: Dr. Zhiqiang Zhang
 
 **University of Massachusetts Medical School** — *Worcester, MA, USA*  
 **December 2015 – June 2017**  
