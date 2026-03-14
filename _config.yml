@@ -45,7 +45,7 @@ defaults:
       author_profile: true
       layout: single
 
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin:"air"
 
 plugins:
   - jekyll-feed
