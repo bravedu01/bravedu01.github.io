@@ -21,17 +21,18 @@
 @import "layout/archive";
 @import "layout/sidebar";
 
-/* Page background */
-html,
-body {
+/* page background */
+.page,
+.page__content,
+.initial-content,
+.archive,
+.site-content {
   background-color: #ffffff !important;
 }
 
-/* Navbar background */
+/* navbar background */
 .masthead,
-.greedy-nav,
-.greedy-nav .visible-links,
-.greedy-nav .hidden-links {
+.greedy-nav {
   background-color: #f3f3f3 !important;
-  border-bottom: 1px solid #e5e5e5 !important;
+  border-bottom: 1px solid #e0e0e0;
 }
