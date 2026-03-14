@@ -21,29 +21,17 @@
 @import "layout/archive";
 @import "layout/sidebar";
 
-/* 横向导航样式 */
-nav.greedy-nav ul {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.2rem;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-  margin: 1rem 0;
-}
-
-nav.greedy-nav ul li {
-  display: inline;
-}
-
-/* Background override */
+/* Page background */
 html,
 body {
   background-color: #ffffff !important;
 }
 
 /* Navbar background */
-.masthead {
+.masthead,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links {
   background-color: #f3f3f3 !important;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5 !important;
 }
