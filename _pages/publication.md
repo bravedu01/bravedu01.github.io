@@ -26,7 +26,7 @@ nav: true
 
 ## Publications in Microbiology and Immunology
 
-- Du Y#, Faz-Lopez B#, Ah Kioon MD, Cenac C, Pierides M, Lakin K, Spiera RF, Chaumeil J, Truchetet ME, Gordon JK, Guéry JC*, Barrat FJ* (2025).  
+- Du Y#, Faz-Lopez B#, Ah Kioon MD, Cenac C, Pierides M, Lakin K, Spiera RF, Chaumeil J, Truchetet ME, Gordon JK, Guéry JC*, Barrat FJ\* (2025).  
   *Altered X-chromosome inactivation of the TLR7/8 locus and heterogeneity of plasmacytoid DCs in systemic sclerosis.*  
   _The Journal of Experimental Medicine_, **222**(3): e20231809.
 
@@ -37,6 +37,8 @@ nav: true
 - Xiao X#, Du Y#, Sun S, Su X, Xing J, Wang G, Elzein SM, Zou D, Minze LJ, Mao Z, Ghobrial RM, Conner AA, Chen W, Zhang Z, Li XC (2024).  
   *Apex1 safeguards genomic stability to ensure a cytopathic T cell fate in autoimmune disease models.*  
   _J Clin Invest_, **135**. 10.1172/JCI183671
+        
+        
         
         
         
