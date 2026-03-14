@@ -1,7 +1,5 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Team"
+  - title: "People"
     url: /team/
   - title: "CV"
     url: /cv/
