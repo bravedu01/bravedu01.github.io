@@ -31,9 +31,14 @@ body {
   background-color: #ffffff !important;
 }
 
-/* navbar */
+/* navbar style for lab website */
+
 .masthead,
+.masthead__inner-wrap,
 .greedy-nav {
-  background-color: #fafafa !important;
-  border-bottom: 1px solid #e6e6e6;
+  background-color: #e9ecef !important;
+}
+
+.masthead {
+  border-bottom: 2px solid #d1d5db !important;
 }
