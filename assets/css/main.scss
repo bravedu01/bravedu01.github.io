@@ -1,43 +1,18 @@
----
----
-
-@import "vendor/breakpoint/breakpoint";
-@import "themes";
-@import "theme/default";
-@import "theme/dark";
-@import "include/mixins";
-// @import "vendor/susy/susy";
-@import "layout/reset";
-@import "layout/base";
-@import "include/utilities";
-@import "layout/tables";
-@import "layout/buttons";
-@import "layout/notices";
-@import "layout/masthead";
-@import "layout/navigation";
-@import "layout/footer";
-@import "syntax";
-@import "layout/forms";
-@import "layout/page";
-@import "layout/archive";
-@import "layout/sidebar";
-// 以下四行会造成构建失败，必须注释掉
-// @import "vendor/font-awesome/fontawesome";
-// @import "vendor/font-awesome/solid";
-// @import "vendor/font-awesome/brands";
-// @import "vendor/magnific-popup/magnific-popup";
-
-/* 横向导航样式 */
-nav.greedy-nav ul {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.2rem;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-  margin: 1rem 0;
+/* Background color override */
+body {
+  background-color: #ffffff !important;
 }
 
-nav.greedy-nav ul li {
-  display: inline;
+html {
+  background-color: #ffffff !important;
+}
+
+.page,
+.page__content,
+.initial-content,
+.masthead,
+.archive,
+.sidebar,
+.site-content {
+  background-color: #ffffff !important;
 }
