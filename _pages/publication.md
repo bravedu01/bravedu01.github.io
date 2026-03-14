@@ -12,7 +12,9 @@ nav: true
 
 # 📝 Publications
 
-## Manuscripts In Submission (# co-first author)
+## Manuscripts In Submission (* co-corresponding authors; # co-first authors)
+
+- Du Y*, Dai H, Zhou J, Zhou Z, Yuan R, Ye R, Nguyen ATQ, Bhatia K, Lin SY*. Chemotherapeutic induction of cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy. Journal for ImmunoTherapy of Cancer. In revision. (MD Anderson Cancer Center)
 
 - Huang, L.#, Liu P.P.#, Du, Y.#, Pan, D.N., Chen, Q.B., Wang, Y.X.  
   *A novel adipokine suppresses leptin signaling and food intake.*  
@@ -33,6 +35,10 @@ nav: true
 - Xiao X#, Du Y#, Sun S, Su X, Xing J, Wang G, Elzein SM, Zou D, Minze LJ, Mao Z, Ghobrial RM, Conner AA, Chen W, Zhang Z, Li XC (2024).  
   *Apex1 safeguards genomic stability to ensure a cytopathic T cell fate in autoimmune disease models.*  
   _J Clin Invest_, **135**. 10.1172/JCI183671
+        
+        
+        
+        
 
 - Wang JY#, Lu WT#, Zhang J#, Du Y#, Fang ML, Xing JJ (2024).  
   *Loss of TRIM29 mitigates viral myocarditis by attenuating PERK-driven ER stress and ROS responses in male mice.*  
