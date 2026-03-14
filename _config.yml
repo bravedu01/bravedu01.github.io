@@ -17,9 +17,9 @@ header:
   navigation: true
 
 navigation:
-  - title: "Home"
+  - title: "Du lab"
     url: /
-  - title: "Team"
+  - title: "People"
     url: /team/
   - title: "CV"
     url: /cv/
