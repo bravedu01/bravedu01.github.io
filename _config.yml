@@ -49,3 +49,5 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  
+accent_color: "#3B6FB6"
