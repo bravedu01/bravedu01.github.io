@@ -10,8 +10,6 @@ nav: true
 🔗 - [Google Scholar](https://scholar.google.com/citations?user=EtUtLTkAAAAJ&hl=en)  
 🔗 - [ORCID](https://orcid.org/0000-0003-2986-6249)
 
----
-
 # 📝 Publications
 
 ## Manuscripts In Submission (* co-corresponding authors; # co-first authors)
@@ -23,8 +21,6 @@ nav: true
 - Huang L#, Liu PP#, Du Y#, Pan DN, Chen QB, Wang YX.  
   *A novel adipokine suppresses leptin signaling and food intake.*  
   **Nature Metabolism.** In revision. (UMass Medical School)
-
----
 
 ## Publications in Microbiology and Immunology
 
@@ -88,8 +84,6 @@ nav: true
   *Neuropilin 1 is an entry factor that promotes EBV infection of nasopharyngeal epithelial cells.*  
   **Nature Communications**, 6: 6240.
 
----
-
 ## Publications in Cancer Biology
 
 - Du Y#, Liu L#, Wang C#, Kuang B, Yan S, Zhou A, Wen C, Chen J, Wu Y, Yang X, et al. (2016).  
@@ -119,8 +113,6 @@ nav: true
 - Li RC#, Du Y#, Zeng QY#, Tang LQ, Zhang H, Li Y, Liu WL, Zhong Q, Zeng MS, Huang XM (2016).  
   *EBV gH/gL antibodies complement IgA-VCA for NPC diagnosis.*  
   **Oncotarget**, 7: 16372–16383.
-
----
 
 ## 📜 Patent
 
