@@ -1,6 +1,6 @@
 ---
 layout: cv-layout
-title: "Welcome to Du Lab"
+title: "Du Lab"
 permalink: /
 author_profile: true
 ---
@@ -33,5 +33,5 @@ We are a research group exploring the complex interplay between the immune syste
 
 ---
 
-📧 For inquiries: [duyongfnp@gmail.com](mailto:duyongfnp@gmail.com)
+📧 For inquiries: [duyongfnp@szu.edu.cn](mailto:duyongfnp@szu.edu.cn)
 
