@@ -16,20 +16,6 @@ author:
 header:
   navigation: true
 
-navigation:
-  - title: "Du lab"
-    url: /
-  - title: "People"
-    url: /team/
-  - title: "CV"
-    url: /cv/
-  - title: "Publication"
-    url: /publication/
-  - title: "Funding"
-    url: /funding/
-  - title: "Contact"
-    url: /contact/
-
 # 指定自定义页面文件夹
 include:
   - _pages
@@ -45,7 +31,7 @@ defaults:
       author_profile: true
       layout: single
 
-minimal_mistakes_skin:"air"
+minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-feed
