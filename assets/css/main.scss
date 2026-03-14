@@ -1,3 +1,6 @@
+---
+---
+
 @import "vendor/breakpoint/breakpoint";
 @import "themes";
 @import "theme/default";
@@ -35,13 +38,6 @@ nav.greedy-nav ul li {
 
 /* Background override */
 html,
-body,
-.page,
-.page__content,
-.initial-content,
-.masthead,
-.archive,
-.sidebar,
-.site-content {
+body {
   background-color: #ffffff !important;
 }
