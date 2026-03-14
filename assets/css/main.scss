@@ -21,18 +21,19 @@
 @import "layout/archive";
 @import "layout/sidebar";
 
-/* page background */
-.page,
-.page__content,
-.initial-content,
-.archive,
-.site-content {
+/* Clean lab website style */
+
+body {
   background-color: #ffffff !important;
 }
 
-/* navbar background */
+.page__content {
+  background-color: #ffffff !important;
+}
+
+/* navbar */
 .masthead,
 .greedy-nav {
-  background-color: #f3f3f3 !important;
-  border-bottom: 1px solid #e0e0e0;
+  background-color: #fafafa !important;
+  border-bottom: 1px solid #e6e6e6;
 }
