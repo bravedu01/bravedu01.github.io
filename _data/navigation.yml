@@ -1,8 +1,6 @@
 main:
   - title: "People"
     url: /team/
-  - title: "CV"
-    url: /cv/
   - title: "Publications"
     url: /publication/
   - title: "Funding"
