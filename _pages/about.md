@@ -1,8 +1,9 @@
 ---
-layout: page
-title: "Research" 
-permalink: /Research/
+layout: cv-layout
+title: Research
+permalink: /research/
 author_profile: true
+nav: true
 ---
 
 
