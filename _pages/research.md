@@ -21,9 +21,7 @@ Our research aims to understand the mechanisms that regulate nucleic acid uptake
 
 Type I interferon (IFN-I) production is tightly regulated by nucleic acid–sensing pathways. Endosomal receptors such as TLR7 and TLR9 detect RNA and DNA in immune cells and signal through the MyD88–IRAK–TRAF cascade to activate IRF7, which drives the transcription of IFN-α and IFN-β.
 
-<p align="center">
-  <img src="/images/IFN_Pathways.png" width="650">
-</p>
+<p align="center"> <img src="/images/IFN_Pathway.png" width="650"> </p>
 
 Genetic and regulatory variations in these pathways can disrupt interferon control and lead to excessive IFN-I production in autoimmune diseases. Our research aims to identify how genetic variation, epigenetic regulation, and cell-type–specific signaling reshape nucleic acid sensing pathways and interferon responses in human disease.
 
