@@ -1,7 +1,7 @@
 ---
 layout: cv-layout
 title: Research
-permalink: /research/
+permalink: /about/
 author_profile: true
 nav: true
 ---
