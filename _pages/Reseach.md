@@ -1,4 +1,3 @@
-
 ---
 layout: cv-layout
 title: "Research"
