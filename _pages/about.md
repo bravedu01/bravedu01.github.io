@@ -8,7 +8,7 @@ nav: true
 
 
 Research Theme 1
-Nucleic acid delivery and pathological innate immune activation
+**Nucleic acid delivery and pathological innate immune activation**
 
 The innate immune system detects infection and tissue damage through nucleic acid sensing pathways. Extracellular nucleic acids released during infection or cell injury—including microbial DNA, mitochondrial DNA, genomic DNA, and NETs—can form complexes with cationic host factors such as chemokines and antimicrobial peptides. These interactions promote the formation of nucleic acid nanoparticles that facilitate cellular uptake through clathrin-dependent endocytosis.
 
