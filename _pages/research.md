@@ -29,7 +29,7 @@ By integrating patient genetics, functional genomics, single-cell RNA sequencing
 
 ## Research Theme 3: Targeting nucleic acid–driven inflammation for cancer immunotherapy
 
-Type I interferon (IFN-I) signaling plays a central role in shaping anti-tumor immunity. Controlled IFN-I responses enhance antigen presentation, dendritic cell activation, and cytotoxic T cell priming, thereby promoting effective anti-tumor immune responses. However, dysregulated or insufficient interferon signaling can impair immune activation and limit the efficacy of cancer immunotherapy.
+IFN-I signaling plays a central role in shaping anti-tumor immunity. Controlled IFN-I responses enhance antigen presentation, dendritic cell activation, and cytotoxic T cell priming, thereby promoting effective anti-tumor immune responses. However, dysregulated or insufficient interferon signaling can impair immune activation and limit the efficacy of cancer immunotherapy.
 
 Within the tumor microenvironment, immune responses are determined by the balance between immunosuppressive and immunostimulatory cell populations. Immunosuppressive cells such as neutrophils, monocytes/macrophages, and regulatory T cells can dampen anti-tumor immunity, whereas cytotoxic T cells, NK cells, dendritic cells, and pro-inflammatory macrophages promote tumor clearance. IFN-I signaling is a key regulator that shapes this balance by influencing immune cell activation, recruitment, and functional polarization.
 
