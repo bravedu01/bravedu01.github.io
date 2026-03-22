@@ -4,12 +4,7 @@ title: "Du Lab"
 permalink: /
 author_profile: true
 ---
-<div style="position: fixed; top: 80px; right: 40px; z-index: 999;">
-  <a href="https://med.szu.edu.cn/szdw/jszgml/jcyxy2/content_11366" target="_blank"
-     style="padding:6px 12px; background:#2C5AA0; color:white; border-radius:6px; text-decoration:none;">
-    中文简介
-  </a>
-</div>
+[中文简介](https://med.szu.edu.cn/szdw/jszgml/jcyxy2/content_11366)
 Welcome to the **Du Lab** in Shenzhen University Basic Medical School.
 
 We are a research group exploring the complex interplay between the immune system and disease. Our work bridges fundamental immunology and translational applications in autoimmunity, infection, and cancer.
