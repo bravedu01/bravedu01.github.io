@@ -4,7 +4,7 @@ title: "Du Lab"
 permalink: /
 author_profile: true
 ---
-<div style="position:absolute; top:20px; right:40px; font-size:16px;">
+<div style="position: fixed; top: 20px; right: 40px; z-index: 999;">
   <a href="https://med.szu.edu.cn/szdw/jszgml/jcyxy2/content_11366" target="_blank">
     中文简介
   </a>
