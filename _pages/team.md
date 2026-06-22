@@ -20,7 +20,7 @@ Ph.D. Sun Yat-sen University (2015)
 
 Dr.Du joined in Shenzhen University in Feb 2026 and is actively recruiting postdoctoral fellows and graduate students interested in nucleic acid sensing and the regulation of type I interferon responses, particularly in the context of autoimmunity, infection and cancer immunotherapy.
 
-### Co-PI
+### Co-Principal Investigator
 <p align="left">
   <img src="/images/yafei.jpg" alt="Yafei Xu" width="180" />
 </p>
