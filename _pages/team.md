@@ -22,7 +22,7 @@ Dr.Du joined in Shenzhen University in Feb 2026 and is actively recruiting postd
 
 ### Co-PI
 <p align="left">
-  <img src="/images/Yafei.jpg" alt="Yafei Xu" width="180" />
+  <img src="/images/yafei.jpg" alt="Yafei Xu" width="180" />
 </p>
 
 **Dr. Yafei Xu**  
