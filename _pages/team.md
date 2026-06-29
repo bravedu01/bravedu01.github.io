@@ -31,4 +31,15 @@ Ph.D. Sun Yat-sen University (2015)
 
 Dr. Xu joined in Shenzhen University in July 2015 and has long been dedicated to investigating the etiology, pathogenesis, and metastatic mechanisms of cancer, especially in nasopharyngeal carcinoma, and has published a series of SCI-indexed papers on these topics, including JNCI, Cancer Letters, Cancer Science, and Journal of Biomedical Science, etc. 
 
+### Ph.D. Student
+
+<p align="left">
+    < img src="/images/yifan.jpg" alt="Yifan Xing" width="180">
+</p >
+
+**Yifan Xing**
+Ph.D. Student
+Shenzhen University
+
+Yifan Xing is a Ph.D. student at Shenzhen University with a background in bioinformatics. Her current academic interests focus on bioinformatics, multi-omics analysis, and immunology, particularly the application of computational approaches to investigate immune-related diseases.
 
