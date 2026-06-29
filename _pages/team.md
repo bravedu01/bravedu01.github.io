@@ -38,7 +38,7 @@ Dr. Xu joined in Shenzhen University in July 2015 and has long been dedicated to
 </p>
 
 **Yifan Xing**
-Ph.D. Student
+Ph.D. Student  <br>
 Shenzhen University
 
 Yifan Xing is a Ph.D. student at Shenzhen University with a background in bioinformatics. Her current academic interests focus on bioinformatics, multi-omics analysis, and immunology, particularly the application of computational approaches to investigate immune-related diseases.
