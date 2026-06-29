@@ -34,8 +34,8 @@ Dr. Xu joined in Shenzhen University in July 2015 and has long been dedicated to
 ### Ph.D. Student
 
 <p align="left">
-    < img src="/images/yifan.jpg" alt="Yifan Xing" width="180" />
-</p >
+  <img src="/images/yifan.jpg" alt="Yifan Xing" width="180" />
+</p>
 
 **Yifan Xing**
 Ph.D. Student
