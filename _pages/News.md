@@ -6,7 +6,37 @@ author_profile: true
 nav: true
 ---
 
-Welcome to our new member Dr. Yafei Xu to join us as a co-PI in Du lab.  6/1/2026.
-Welcome Yifan Xing to join us as a Ph.D. student. 6/10/2026.
-Happy to share Our new publication "Chemotherapeutic induction of cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy" has been pblished on JITC.
-See the link 
+
+# News
+
+---
+
+### July 2026
+
+**📰 New paper published in JITC**
+
+Our paper, **"Chemotherapeutic induction of cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy,"** has been published in the *Journal for ImmunoTherapy of Cancer (JITC)*.
+
+**Read the paper:**
+https://jitc.bmj.com/content/14/6/e014722
+
+---
+
+### June 2026
+
+**👨‍🔬 Welcome Dr. Yafei Xu**
+
+We are delighted to welcome **Dr. Yafei Xu** to **Du Lab** as a **Co-Principal Investigator (Co-PI)**.
+
+*June 1, 2026*
+
+---
+
+### June 2026
+
+**🎓 Welcome Yifan Xing**
+
+We warmly welcome **Yifan Xing** to **Du Lab** as a **Ph.D. student**.
+
+*June 10, 2026*
+
