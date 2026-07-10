@@ -1,7 +1,7 @@
 ---
 layout: cv-layout
-title: "Team"
-permalink: /team/
+title: "News"
+permalink: /News/
 author_profile: true
 nav: true
 ---
