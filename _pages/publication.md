@@ -19,7 +19,7 @@ nav: true
 
 ## Publications in Microbiology and Immunology
 - Du, Y.#*, Yang, L., Dai, H., Zhou, J., Zhou, Z., Yuan, R., Ye, R., Nguyen, A.T.Q., Bhatia, K., and Lin, S.-Y. (2026).   
-  *Chemotherapeutic induction of cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy.*
+  *Chemotherapeutic induction of cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy.*    
   **J. Immunother. Cancer** 14, e014722.
              
 - Du Y#, Faz-Lopez B#, Ah Kioon MD, Cenac C, Pierides M, Lakin K, Spiera RF, Chaumeil J, Truchetet ME, Gordon JK, Guéry JC\*, Barrat FJ\* (2025).  
