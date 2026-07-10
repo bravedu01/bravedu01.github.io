@@ -13,16 +13,14 @@ nav: true
 
 ## Manuscripts In Submission (* co-corresponding authors; # co-first authors)
 
-- Du Y\*, Dai H, Zhou J, Zhou Z, Yuan R, Ye R, Nguyen ATQ, Bhatia K, Lin SY.  
-  *Chemotherapeutic induction of cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy.*  
-  **Journal for ImmunoTherapy of Cancer.** In revision. (MD Anderson Cancer Center)
-
 - Huang L#, Liu PP#, Du Y#, Pan DN, Chen QB, Wang YX.  
   *A novel adipokine suppresses leptin signaling and food intake.*  
   **Nature Metabolism.** In revision. (UMass Medical School)
 
 ## Publications in Microbiology and Immunology
-
+- Du, Y.#*, Yang, L., Dai, H., Zhou, J., Zhou, Z., Yuan, R., Ye, R., Nguyen, A.T.Q., Bhatia, K., and Lin, S.-Y. (2026). Chemotherapeutic induction of   *cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy.*
+  **J. Immunother. Cancer** 14, e014722.
+             
 - Du Y#, Faz-Lopez B#, Ah Kioon MD, Cenac C, Pierides M, Lakin K, Spiera RF, Chaumeil J, Truchetet ME, Gordon JK, Guéry JC\*, Barrat FJ\* (2025).  
   *Altered X-chromosome inactivation of the TLR7/8 locus and heterogeneity of plasmacytoid DCs in systemic sclerosis.*  
   **The Journal of Experimental Medicine**, 222(3): e20231809.
