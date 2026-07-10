@@ -18,7 +18,7 @@ nav: true
   **Nature Metabolism.** In revision. (UMass Medical School)
 
 ## Publications in Microbiology and Immunology
-- Du, Y.\*#, Yang, L., Dai, H., Zhou, J., Zhou, Z., Yuan, R., Ye, R., Nguyen, A.T.Q., Bhatia, K., and Lin, S.-Y\*. (2026).   
+- Du Y\*#, Yang L, Dai H, Zhou J, Zhou Z, Yuan R, Ye R, Nguyen ATQ, Bhatia K, Lin S-Y\* (2026).    
   *Chemotherapeutic induction of cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy.*    
   **J. Immunother. Cancer** 14, e014722.
              
