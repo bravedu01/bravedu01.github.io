@@ -23,7 +23,7 @@ nav: true
   **J. Immunother. Cancer** 14, e014722.
              
 - Du Y#, Faz-Lopez B#, Ah Kioon MD, Cenac C, Pierides M, Lakin K, Spiera RF, Chaumeil J, Truchetet ME, Gordon JK, Guéry JC\*, Barrat FJ\* (2025).  
-  *Altered X-chromosome inactivation of the TLR7/8 locus and heterogeneity of plasmacytoid DCs in systemic sclerosis.*  
+  *Altered X-chromosome inactivation of the TLR7/8 locus and heterogeneity of plasmacytoid DCs in systemic sclerosis.*     
   **The Journal of Experimental Medicine**, 222(3): e20231809.
 
 - Du Y, Ah Kioon MD, Laurent P, Chaudhary V, Pierides M, Yang C, Oliver D, Ivashkiv LB, Barrat FJ (2022).  
