@@ -53,5 +53,5 @@ Yifan Xing is a Ph.D. student at Shenzhen University with a background in bioinf
 Master Student  <br>
 Shenzhen University
 
-Chenqing is a Master student at School of Pharmacy, Shenzhen University. She is a student jointly supervised by Dr. Meiying Wang, Director of the Department of Rheumatology at Shenzhen Second People’s Hospital. Her current academic interests focus on systemic lupus erythematosus (SLE) and immunology, particularly the investigation of immune mechanisms in autoimmune diseases. She likes table tennis, basketball, and badminton.
+Chenqing is a master student at School of Pharmacy, Shenzhen University. She is a student jointly supervised by Dr. Meiying Wang, Director of the Department of Rheumatology at Shenzhen Second People’s Hospital. Her current academic interests focus on systemic lupus erythematosus (SLE) and immunology, particularly the investigation of immune mechanisms in autoimmune diseases. She likes table tennis, basketball, and badminton.
 
