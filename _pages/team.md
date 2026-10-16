@@ -46,7 +46,7 @@ Yifan Xing is a Ph.D. student at Shenzhen University with a background in bioinf
 ### Master Student
 
 <p align="left">
-  <img src="/images/qingchen.png" alt="Yifan Xing" width="180" />
+  <img src="/images/qingchen.png" alt="Chenqing Lu" width="180" />
 </p>
 
 **Chenqing Lu**
