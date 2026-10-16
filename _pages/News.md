@@ -12,7 +12,7 @@ nav: true
 
 Our paper,
 
-**"Chemotherapeutic induction of cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy,"**
+**"Chemotherapeutic induction of cytosolic single-stranded DNA accumulation sensitizes triple-negative breast cancer to immunotherapy"**
 
 has been published in the *Journal for ImmunoTherapy of Cancer (JITC)*.
 
