@@ -43,3 +43,15 @@ Shenzhen University
 
 Yifan Xing is a Ph.D. student at Shenzhen University with a background in bioinformatics. Her current academic interests focus on bioinformatics, multi-omics analysis, and immunology, particularly the application of computational approaches to investigate immune-related diseases.
 
+### Master Student
+
+<p align="left">
+  <img src="/images/yifan.jpg" alt="Yifan Xing" width="180" />
+</p>
+
+**Chenqing Lu**
+Master Student  <br>
+Shenzhen University
+
+Chenqing is a Master student at School of Pharmacy, Shenzhen University. Her current academic interests focus on systemic lupus erythematosus (SLE) and immunology, particularly the investigation of immune mechanisms in autoimmune diseases. She likes table tennis, basketball, and badminton.
+
