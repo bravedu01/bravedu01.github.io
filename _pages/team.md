@@ -11,7 +11,7 @@ nav: true
 ### Principal Investigator
 
 <p align="left">
-  <img src="/images/yongdu.jpg" alt="Yong Du" width="180" />
+  <img src="/images/yongdu.png" alt="Yong Du" width="180" />
 </p>
 
 **Dr. Yong Du**  
