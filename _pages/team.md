@@ -55,3 +55,12 @@ Shenzhen University
 
 Qingchen is a master student at School of Pharmacy, Shenzhen University. She is a student jointly supervised by Dr. Meiying Wang, Director of the Department of Rheumatology at Shenzhen Second People’s Hospital. Her current academic interests focus on systemic lupus erythematosus (SLE) and immunology, particularly the investigation of immune mechanisms in autoimmune diseases. She likes table tennis, basketball, and badminton.
 
+<p align="left">
+  <img src="/images/menglu.png" alt="menglu" width="180" />
+</p>
+
+**Menglu Zhong**
+Master Student  <br>
+Shenzhen University
+
+Menglu is a newly admitted graduate student in Dr. Yong Du’s laboratory at Shenzhen University. Her research focuses on innate immunity, nucleic acid sensing, and the regulation of type‑I interferon responses. Under the guidance of Dr. Du, she seeks to investigate how these signaling pathways contribute to autoimmune diseases and tumor immunity, as she develops her expertise in molecular immunology and functional genomics.
