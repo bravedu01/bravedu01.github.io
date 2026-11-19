@@ -64,3 +64,13 @@ Master Student  <br>
 Shenzhen University
 
 Menglu is a newly admitted graduate student in Dr. Yong Du’s laboratory at Shenzhen University. Her research focuses on innate immunity, nucleic acid sensing, and the regulation of type‑I interferon responses. Under the guidance of Dr. Du, she seeks to investigate how these signaling pathways contribute to autoimmune diseases and tumor immunity, as she develops her expertise in molecular immunology and functional genomics.
+
+<p align="left">
+  <img src="/images/menglu.png" alt="menglu" width="180" />
+</p>
+
+**Shifei Ma**
+Master Student  <br>
+Shenzhen University
+
+Shifei joined Dr. Yong Du's research team at Shenzhen University as an incoming postgraduate student. He is a student jointly supervised by Drs. Yafei Xu and Yong Du. His work is centered upon innate immune defense,nucleic-acid recognition, and the homeostatic control of type-I interferon responses. He will probe the functional roles of these signaling axes in the pathogenesis of autoimmune conditions and anti-tumor immunity, alongside cultivating his professional proficiency within molecular immunology and functional genomics. Beyond laboratory research, he has a fondness for athletics and maintains a consistent workout schedule to sustain a healthy and positive way of life.
